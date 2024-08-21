@@ -1,1 +1,2 @@
 # SmartAppointment
+## Good practices
